@@ -89,3 +89,6 @@ crashlytics-build.properties
 /[Aa]ssets/AllSkyFree/
 /[Aa]ssets/_TerrainAutoUpgrade/
 /[Aa]ssets/Sun_Temple/
+
+/[Aa]ssets/store_import/
+/[Aa]ssets/store_import.meta
