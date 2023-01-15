@@ -276,7 +276,7 @@ MonoBehaviour:
   audioSource: {fileID: 4675710678191572913}
   globalGimmickKey:
     key:
-      target: 2
+      target: 0
       key: audiosource.play
     item: {fileID: 8363647350673465305}
   parameterType: 0
@@ -344,7 +344,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   item: {fileID: 8363647350673465305}
   triggers:
-  - target: 4
+  - target: 1
     specifiedTargetItem: {fileID: 8363647350673465305}
     key: audiosource.play
     type: 0
