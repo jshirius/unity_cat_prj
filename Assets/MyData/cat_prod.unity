@@ -206,7 +206,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -919,7 +919,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 2e4a5db57f2f47b4db5244e03be81170, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.17
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -1123,6 +1123,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: CatOziPlayAudioSourceGimmick
       objectReference: {fileID: 0}
+    - target: {fileID: 9097787859121967134, guid: 76452073fbbdc7a4abb386e7160e49e9,
+        type: 3}
+      propertyPath: id.value
+      value: 15530985934204488263
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 76452073fbbdc7a4abb386e7160e49e9, type: 3}
 --- !u!1001 &4675710678899476152
@@ -1212,6 +1217,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 8154780829782071268, guid: 8b5879fad0a9b9e4c9a626656d1b408b,
+        type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8287824342269397120, guid: 8b5879fad0a9b9e4c9a626656d1b408b,
         type: 3}
       propertyPath: m_Size.y
