@@ -92,3 +92,5 @@ crashlytics-build.properties
 
 /[Aa]ssets/store_import/
 /[Aa]ssets/store_import.meta
+/[Aa]ssets/DownloadAsset/
+/[Aa]ssets/DownloadAsset.meta
